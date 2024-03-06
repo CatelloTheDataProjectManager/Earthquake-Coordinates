@@ -14,23 +14,19 @@ Welcome to the GitHub repository for my API Data Retrieval and JSON List Nesting
 
 - Utilize the requests library to retrieve JSON data from an API endpoint.
 - Employ Pandas to normalize JSON data into a structured DataFrame.
-  
-  [Notebook Jupyter: API Data Retrieval](<!-- Replace with your actual notebook link -->)
 
 ## JSON List Nesting and DataFrame Manipulation
 
 - Explore techniques for handling nested JSON structures.
 - Demonstrate Pandas' json_normalize function for different scenarios, including max level normalization, record path manipulation, and handling nested data structures.
 
-  [Notebook Jupyter: JSON List Nesting](<!-- Replace with your actual notebook link -->)
-
 ## Interactive Data Visualization with Folium
 
 - Leverage Folium to create an interactive map visualizing geospatial data.
 - Customize markers based on data attributes such as magnitude, providing a clear overview.
 
-  [Notebook Jupyter: Interactive Map Visualization](<!-- Replace with your actual notebook link -->)
+  [Notebook Jupyter : API Data Retrieval and JSON List Nesting](https://github.com/CatelloTheDataProjectManager/Earthquake-Coordinates/blob/main/API%20Data%20Retrieval%20and%20JSON%20List%20Nesting.ipynb)
 
 Feel free to explore the code and documentation to gain a deeper understanding of the project. Your feedback and contributions are highly appreciated! 🚀
 
-![Project Image](<!-- Replace with your actual image link -->)
+![Project Image](https://github.com/CatelloTheDataProjectManager/Earthquake-Coordinates/blob/main/earthquake_map.png)
